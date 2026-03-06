@@ -1,5 +1,8 @@
 # INAV Web GCS
+![INAV GCS Banner](./screenshots/banner.png)
 
+# INAV GCS
+Lightweight Cross-Platform Ground Control Station for INAV Flight Controllers
 Lightweight Cross-Platform Ground Control Station for **INAV Flight Controllers**
 
 INAV Web GCS is a lightweight cross-platform **Ground Control Station (GCS)** for INAV flight controllers.
