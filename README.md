@@ -1,5 +1,5 @@
-# INAV Web GCS
-!(./screenshots/banner.png)
+![INAV GCS Banner](./screenshots/banner.png)
+
 
 # INAV GCS
 Lightweight Cross-Platform Ground Control Station for INAV Flight Controllers
