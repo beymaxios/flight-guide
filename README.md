@@ -19,7 +19,7 @@ It provides a modern **map-based mission planner**, **live telemetry**, and mult
 
 The project is built using modern web technologies and runs on:
 
-• Desktop (Windows / Linux / Mac)  
+• Desktop 
 • Android devices  
 • Web browsers (via ESP32 bridge)
 
@@ -31,7 +31,7 @@ This project is built to support the **INAV ecosystem** and provide additional t
 
 ## Project Motivation
 
-Over the years, whenever I felt the need for a Ground Control Station while using **INAV**, the common suggestion from the community was:
+Over the years, whenever I felt the need for a Ground Control Station while using **INAV**, the common suggestion was:
 
 *"Just move to ArduPilot or PX4."*
 
@@ -39,7 +39,7 @@ While those ecosystems have excellent ground stations, I really liked the simpli
 
 However, there was no lightweight **cross-platform GCS specifically designed for INAV** that worked easily across desktop, Android, and browsers.
 
-So I decided to build one.
+Also, the MWP Tools is only available with desktops, So I decided to build one.
 
 **Flight Guide GCS** started as a personal tool to solve my own workflow needs in the field.  
 With time it evolved into something that could be useful for other pilots as well.
@@ -68,7 +68,7 @@ I’m happy to see others use it, improve it, or build on top of it.
 
 ## Platforms & Connectivity
 
-### Desktop (Windows / Linux / Mac)
+### Desktop
 
 Connection method:
 
