@@ -12,7 +12,7 @@
 
 </p>
 
-# Flight Guide Ground Control Station for INAV
+# Flight Guide - Ground Control Station for INAV
 Lightweight Cross-Platform Ground Control Station for **INAV Firmware**
 
 It provides a modern **map-based mission planner**, **live telemetry**, and multiple connection methods including **USB**, **LoRa telemetry**, and **WiFi bridges**.
