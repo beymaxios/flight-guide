@@ -333,7 +333,7 @@ Android
 
 ## Supported Firmware
 
-INAV Flight Controllers
+INAV 
 
 Tested with:
 
