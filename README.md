@@ -41,7 +41,7 @@ However, there was no lightweight **cross-platform GCS specifically designed for
 
 So I decided to build one.
 
-**INAV Web GCS** started as a personal tool to solve my own workflow needs in the field.  
+**Flight Guide GCS** started as a personal tool to solve my own workflow needs in the field.  
 With time it evolved into something that could be useful for other pilots as well.
 
 By sharing this project publicly, my goal is simply to contribute something back to the **INAV community**.
